@@ -1,6 +1,6 @@
 # project_one
 
-A new Flutter project.
+First Flutter project as home assignment from the course.
 
 ## Getting Started
 
